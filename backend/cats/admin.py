@@ -1,3 +1,7 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import Achievement, AchievementCat, Cat
+
+admin.site.register(Achievement)
+admin.site.register(AchievementCat)
+admin.site.register(Cat)

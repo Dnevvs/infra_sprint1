@@ -1,0 +1,5 @@
+IP: 130.193.53.253;
+name_taski: https://firsttask.ddns.net/;
+name_kittygram: https://kit.blinklab.com/;
+login: adfmin;
+password: KittyTask1;
